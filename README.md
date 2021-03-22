@@ -8,3 +8,5 @@
 you1024/you1024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+大号里面内容挺杂，你懂的，注册小号来答题
